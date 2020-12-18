@@ -1,0 +1,150 @@
+
+  /* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+  .heading h2 {
+    font-size: 32px;
+  }
+
+
+  .header-right a {
+    line-height: 10px;
+    padding: 0 10px;
+}
+
+
+  .menu-icon {
+    display: block;
+  }
+
+.layout {
+  margin: 0 100px;
+}
+  .food-wrapper {
+    height: 2500px;
+  }
+
+.container2 {
+  margin-left: 20%;
+}
+
+  .food {
+    width: 100%;
+  }
+
+  .heading-1 {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .heading-2 {
+    float: left;
+    width: 25%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .heading-3 {
+    float: left;
+    width: 25%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .message-wrapper {
+   height: 380px;
+ }
+
+}
+
+
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .header {
+    width: 100%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+
+  .section-tittle3 {
+    margin-bottom: 10px;
+  }
+
+
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon {
+  display: block;
+  }
+
+  .container {
+    height: 500px;
+  }
+
+  .container h1{
+    font-size: 36px;
+  }
+
+  .food-wrapper {
+    height: 2900px;
+  }
+
+  .contributor {
+    height: 600px;
+  }
+
+   .contributor h2 {
+     font-size: 36px;
+   }
+
+  .person {
+    float:right;
+    border-left: none;
+    width: 33%;
+    margin-top: 35px;
+  }
+
+   .person p {
+     display: none;
+   }
+
+   .person4 {
+     border-right: none;
+   }
+
+   .container1 {
+     margin-left: 0;
+   }
+
+   .container2 {
+     margin-left: 5%;
+   }
+
+   .heading-1 {
+    display: none;
+   }
+
+   .heading-2 {
+     float: left;
+     width: 25%;
+     padding-left: 20px;
+     padding-right: 20px;
+   }
+
+   .heading-3 {
+     float: left;
+     width: 25%;
+     padding-left: 20px;
+     padding-right: 20px;
+   }
+
+   .message-wrapper {
+    height: 450px;
+  }
+
+}

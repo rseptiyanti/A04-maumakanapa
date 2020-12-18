@@ -1,0 +1,318 @@
+@media (max-width:1000px) {
+  .flex-list {
+    flex-wrap:wrap;
+  }
+  .flex-list li {
+    width: 505;
+  }
+}
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+
+}
+
+.header {
+  background-color: #fceba2;
+  height: 100px;
+  padding-top: 0px;
+  padding-left: 10px;
+  width: 100%;
+
+}
+
+.header-logo {
+  float: left;
+  font-size:20px;
+  padding-top: 0px;
+  background: transparent;
+
+}
+
+.header-right {
+  float: right;
+  margin-right: 0px;
+  font-size: 14px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-right a {
+  line-height: 100px;
+  padding: 0 25px;
+  color:#df613a;
+  ;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
+ .container {
+   padding-top: 10px;
+   background-color: #F69C4D;
+   height: 450px;
+ }
+
+ .layout {
+   margin: 0 350px;
+ }
+
+ .container h1{
+   font-size: 72px;
+   font-weight: normal;
+   font-family: Langar;
+   color : #fceba2;
+   padding-top: 50px;
+   padding-bottom: 0px;
+   animation-name: maumakanapa;
+   animation-duration: 30s;
+ }
+ .container h2{
+   font-size: 18px;
+   font-weight: normal;
+   padding-bottom: 50px;
+   font-family: 'Roboto', sans-serif;
+ }
+ .container h3 {
+  font-weight: normal;
+  font-size: 22px;
+  font-family: Langar;
+  color: Red;
+  animation-name: tentangkami;
+  animation-duration: 30s;
+}
+ .container p{
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   font-weight: normal;
+
+   padding-bottom: 5px;
+   padding-top: 20px;
+
+  }
+ .food-wrapper {
+   height: 1200px;
+   padding-bottom: 80px;
+   background-color: #fff9d9;
+   text-align: center;
+ }
+
+ .heading {
+   padding-top: 50px;
+   color: Red;
+ }
+ .heading h1{
+  font-weight: normal;
+  font-size: 22px;
+  font-family: Langar;
+  color: Red;
+ }
+ .heading h2 {
+   font-weight: bold;
+   font-weight: normal;
+   font-size: 22px;
+   font-family: Langar;
+   color: Red;
+   letter-spacing: 5px;
+ }
+
+ .food {
+   float: left;
+   width: 20%;
+   margin-top: 30px;
+ }
+
+ .food-icon {
+   position: relative;
+ }
+
+ .food-icon p{
+   font-family: 'Roboto', sans-serif;
+ }
+
+ .penulis {
+   color: black;
+   font-size: 12px;
+ }
+
+ .See-more:hover {
+   background-color: rgba(255, 255, 255, 0.5);
+ }
+
+ .lesson-icon p {
+   position: absolute;
+   top: 90px;
+   width: 100%;
+   color: black;
+ }
+
+ .txt-contents {
+   width: 80%;
+   display: inline-block;
+   margin-top: 20px;
+   font-size: 15px;
+   color: black;
+   text-align: justify;
+ }
+
+ .container2 {
+   position: relative;
+   margin-left: 35%;
+ }
+
+ .suggestion-form {
+   text-align: left;
+   padding-top: 50px;
+ }
+
+ .suggestion-form input, textarea {
+   padding: 20px;
+   border: 2px solid #DE613A;
+   font-size: 16px;
+   width: 400px;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   text-align: center;
+ }
+
+ .section-tittle3 {
+   font-size: 28px;
+   border-bottom: 2px solid #DE613A;
+   padding-bottom: 15px;
+   margin-bottom: 50px;
+   color: #DE613A;
+   font-weight: normal;
+   font-size: 26px;
+   font-family: Langar;
+   text-align: center;
+ }
+
+ .submit {
+   background-color: #FA1916;
+   color: #f69c4d;
+   font-weight: bold;
+   margin-top: 20px;
+   margin-left: 30px;
+ }
+
+ .suggestion-form p {
+   text-align: left;
+ }
+
+ .contributor {
+   height: 400px;
+   margin: auto;
+   background-color: #f69c4d;
+ }
+
+ .contributor h2 {
+   text-align: center;
+   margin-bottom: 50px;
+   padding-top: 20px;
+   font-weight: normal;
+   font-size: 22px;
+   font-family: Langar;
+   color: white;
+ }
+
+ .container1 {
+   margin-left: 60px;
+ }
+
+
+ .person {
+   float: left;
+   width: 19%;
+   text-align: center;
+   border-left: 2px solid #FA1916;
+ }
+
+ .person h4 {
+   font-size: 16px;
+   text-align: center;
+   font-weight: bold;
+   padding-top: 10px;
+   padding-bottom: 5px;
+ }
+
+ .person p {
+   font-size: 12px;
+   font-weight: normal;
+   margin: 0 20px
+ }
+
+ .person4 {
+   border-right: 2px solid #FA1916;
+ }
+
+ .message-wrapper {
+  height: 300px;
+  background-color: #DE613A;
+}
+
+.heading-1 {
+  float: left;
+  width: 25%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.heading-2 {
+  float: left;
+  width: 25%;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.heading-3 {
+  float: left;
+  width: 25%;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.message-wrapper h2 {
+  color: #FA1916;
+
+}
+
+.message-wrapper p {
+  color: black;
+  line-height: 1.25;
+  font-size: 12px;
+}
+
+footer {
+  padding: 10px 0;
+  background-color: #FFDC42;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+  color: #DE613A;
+}
+
+@keyframes maumakanapa {
+  from{color: red;}
+  to{color: yellow;}
+}
+@keyframes tentangkami {
+  from{color: red;}
+  to{color: yellow;}
+}

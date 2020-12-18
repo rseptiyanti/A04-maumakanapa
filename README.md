@@ -1,2 +1,0 @@
-# A04-maumakanapa
-We are the A04 team. This is an assignment for Progate collaboration with Tokopedia "Women in Tech" Bootcamp. In final project get task to make a landing page. We decided to make a presonal (group) blog landing page. In this blog we tell our review about Indonesian food. This first ever project in coding using HTML and CSS. This landing page made by Rizky Septiyanti, Maydina Zakiah, Erika Anindita, Tasya Nadzmus S, and Nadia Hassanah Putri.
